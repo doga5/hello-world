@@ -1,5 +1,5 @@
 # GETTING STARTED WITH GITHUB
-### *GitHub Basics*
+## *GitHub Basics*
 
 # 1. Basic Commands  
 ```
@@ -8,3 +8,10 @@ git add
 git commit
 git push
 ```
+# 2. Styling Text
+
+`* *` or `_ _`       *italic text*
+`** **` or ` __ __` __bold text__
+`~~ ~~`             ~~striketrough text~~ 
+`*** ***`         ***bold and italic text***
+`**` and `_`      **to italicize a _word_ in a bol sentence**
