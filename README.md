@@ -20,4 +20,4 @@ git push
 
 `**` and `_` :    **to italicize a _word_ in a bold sentence**
 
-`>`: >to quote a text
+`>`: > to quote a text
