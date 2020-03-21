@@ -10,12 +10,14 @@ git push
 ```
 # 2. Styling Text
 
-`* *` or `_ _`       *italic text*
+`* *` or `_ _` :      *italic text*
 
-`** **` or ` __ __` __bold text__
+`** **` or ` __ __` : __bold text__
 
-`~~ ~~`             ~~striketrough text~~ 
+`~~ ~~` :            ~~striketrough text~~ 
 
-`*** ***`         ***bold and italic text***
+`*** ***` :        ***bold and italic text***
 
-`**` and `_`      **to italicize a _word_ in a bold sentence**
+`**` and `_` :    **to italicize a _word_ in a bold sentence**
+
+`>`: >to quote a text
