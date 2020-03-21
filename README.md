@@ -14,10 +14,11 @@ git push
 
 `** **` or ` __ __` : __bold text__
 
-`~~ ~~` :            ~~striketrough text~~ 
+`~~ ~~` :            ~~strikethrough text~~ 
 
 `*** ***` :        ***bold and italic text***
 
 `**` and `_` :    **to italicize a _word_ in a bold sentence**
 
-`>`: > to quote a text
+`>`: 
+> to quote a text
