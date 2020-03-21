@@ -1,4 +1,6 @@
 # GETTING STARTED WITH GITHUB
-##### *GitHub Basics*
+### *GitHub Basics*
 
 # 1. Basic Commands  
+
+git status
